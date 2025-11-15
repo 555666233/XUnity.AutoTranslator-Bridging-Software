@@ -1,6 +1,6 @@
 # Unity自动翻译对接软件（Unity引擎游戏汉化工具）
 
-> 专为中文翻译而生，为 XUnity.AutoTranslator 注入 AI 大语言模型的灵魂。
+> 一款专注于 **小而精** 的自动化省心游戏汉化翻译工具，专为中文翻译而生，为 XUnity.AutoTranslator 注入 AI 大语言模型的灵魂。
 
 ## 🎯 项目简介
 
