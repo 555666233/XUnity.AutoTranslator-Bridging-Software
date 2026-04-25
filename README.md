@@ -1,6 +1,6 @@
 # Unity自动翻译对接软件（Unity引擎游戏汉化工具）
 
-> 一款专注于 **小而精** 的自动化省心游戏汉化翻译工具，专为中文翻译而生，为 XUnity.AutoTranslator 注入 AI 大语言模型的灵魂。
+> 一款专注于 **小而精** 的自动化游戏汉化翻译工具，专为中文翻译而生，为 XUnity.AutoTranslator 注入 AI 大语言模型的灵魂。
 
 ## 🎯 项目简介
 
@@ -22,8 +22,10 @@
 ## 🚀 工作原理
 
 
-<img width="3984" height="540" alt="deepseek_mermaid_20251001_b2456f" src="https://github.com/user-attachments/assets/d7019edb-bf58-4e6b-b6d9-f4ba5026fdd9" />
+<img width="784" height="140" alt="deepseek_mermaid_20251001_b2456f" src="https://github.com/user-attachments/assets/d7019edb-bf58-4e6b-b6d9-f4ba5026fdd9" />
 
+## 🗔软件预览
+![屏幕截图 2026-01-13 014837.png](https://raw.gitcode.com/user-images/assets/7764361/739b426a-385f-471c-aad2-a4971fd0b4c4/屏幕截图_2026-01-13_014837.png '屏幕截图 2026-01-13 014837.png')
 
 ## 📥 安装与使用
 
